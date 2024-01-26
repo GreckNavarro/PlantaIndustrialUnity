@@ -3,7 +3,12 @@ guid: 486e3678578a7f542b88be639ffaeb82
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Pumps
+    second: {fileID: 2100000, guid: 4a437c25803d5094b872c48178053abf, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
