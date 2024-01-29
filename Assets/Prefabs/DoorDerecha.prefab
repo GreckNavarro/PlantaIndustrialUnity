@@ -183,7 +183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 816196df9c0998241810e3640f915701, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puerta: {fileID: 2807204155420553790}
+  puerta: {fileID: 6122579124823439275}
 --- !u!1 &4407253582227112837
 GameObject:
   m_ObjectHideFlags: 0
@@ -550,7 +550,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2168536967082041292}
-  - component: {fileID: 2807204155420553790}
+  - component: {fileID: 6122579124823439275}
   m_Layer: 0
   m_Name: PuertaGeneralIzquierda
   m_TagString: Untagged
@@ -574,7 +574,7 @@ Transform:
   - {fileID: 6881319628736080802}
   m_Father: {fileID: 4234490117005692411}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &2807204155420553790
+--- !u!95 &6122579124823439275
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
