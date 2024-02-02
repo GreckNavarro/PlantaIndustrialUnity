@@ -9,6 +9,16 @@ public class ScenesController : MonoBehaviour
     {
         SceneManager.LoadScene("Plastic");
     }
+
+    public void GoAlimenticia()
+    {
+        SceneManager.LoadScene("Alimenticia");
+    }
+
+    public void GoMenu()
+    {
+        SceneManager.LoadScene("Menu");
+    }
     public void QuitGame()
     {
         Application.Quit();

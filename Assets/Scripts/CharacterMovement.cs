@@ -8,22 +8,40 @@ public class CharacterMovement : MonoBehaviour
     public Vector2 sensibilidadMouse;
     public Rigidbody rb;
     public new Transform camera;
+    public bool cursor;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         Cursor.lockState = CursorLockMode.Locked;
+        cursor = true;
     }
 
     void FixedUpdate()
     {
+    
         Movement();
         
     }
 
     private void Update()
     {
-        UpdateMouseLook();
+        if (cursor == true)
+        {
+            UpdateMouseLook();
+        }
+      
+
+        if (Input.GetKeyDown(KeyCode.Escape) && cursor == true)
+        {
+            Cursor.lockState = CursorLockMode.None;
+            cursor = false;
+        }
+        else if(Input.GetKeyDown(KeyCode.Escape) && cursor == false)
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+            cursor = true;
+        }
     }
 
     void Movement()
