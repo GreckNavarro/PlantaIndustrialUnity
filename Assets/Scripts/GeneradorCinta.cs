@@ -23,7 +23,7 @@ public class GeneradorCinta : MonoBehaviour
 
         for (int i = 0; i < poolSize; i++)
         {
-            GameObject obj = Instantiate(prefab);
+            GameObject obj = Instantiate(prefab, transform);
             obj.GetComponent<ObjectCintaController>().SetPool(this);
             objectPool.Add(obj);
             obj.SetActive(false);
@@ -33,13 +33,14 @@ public class GeneradorCinta : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(tiempoEntreGeneraciones);
+            float tmp = Random.Range(0.1f, tiempoEntreGeneraciones);
+            yield return new WaitForSeconds(tmp);
 
             // Obtener un objeto del pool
             GameObject obj = GetPooledObject();
 
             // Configurar la posición inicial del objeto
-            obj.transform.position = transform.position;
+            obj.transform.position = new Vector3(Random.Range(transform.position.x - 0.5f, transform.position.x + 0.5f), transform.position.y, transform.position.z);
             obj.transform.rotation = transform.rotation;
             obj.GetComponent<Rigidbody>().velocity = new Vector3(0,0,0);
             obj.GetComponent<Rigidbody>().angularVelocity = new Vector3(0, 0, 0);
@@ -59,7 +60,7 @@ public class GeneradorCinta : MonoBehaviour
 
         if (canExpand)
         {
-            GameObject obj = Instantiate(prefab);
+            GameObject obj = Instantiate(prefab, transform);
             obj.GetComponent<ObjectCintaController>().SetPool(this);
             objectPool.Add(obj);
             return obj;
