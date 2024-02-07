@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Alimenticia.unity
     guid: 6d9cdabfef1fb904e8fb6e43f7b0cef7
+  - enabled: 1
+    path: Assets/Scenes/Mineria.unity
+    guid: 913754823dde41a4aa0a8b5e6624f17b
   m_configObjects: {}

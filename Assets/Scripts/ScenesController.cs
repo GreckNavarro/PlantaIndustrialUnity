@@ -14,6 +14,10 @@ public class ScenesController : MonoBehaviour
     {
         SceneManager.LoadScene("Alimenticia");
     }
+    public void GoMineria()
+    {
+        SceneManager.LoadScene("Mineria");
+    }
 
     public void GoMenu()
     {
