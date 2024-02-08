@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -676,6 +680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.224
@@ -782,6 +790,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.947
@@ -870,6 +882,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1951,6 +1967,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.5078
@@ -2713,6 +2733,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3801,6 +3825,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.3974
@@ -4858,6 +4886,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.3974
@@ -5673,6 +5705,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6399,6 +6435,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.444
@@ -7091,6 +7131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.947
@@ -7670,6 +7714,10 @@ PrefabInstance:
     - target: {fileID: 1370814439289101530, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8394,6 +8442,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9155,6 +9207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.757
@@ -9294,6 +9350,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9536,6 +9596,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.1739
@@ -9711,6 +9775,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10003,6 +10071,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.5078
@@ -10064,6 +10136,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10914,6 +10990,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11958,6 +12038,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.511
@@ -12091,6 +12175,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13018,6 +13106,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13034,6 +13126,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13301,6 +13397,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14604,6 +14704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.3789
@@ -15355,6 +15459,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15993,6 +16101,10 @@ PrefabInstance:
     - target: {fileID: 1370814439289101530, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16849,6 +16961,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.634
@@ -17418,6 +17534,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17610,6 +17730,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.757
@@ -17671,6 +17795,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18672,6 +18800,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18923,6 +19055,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20082,6 +20218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.831
@@ -20606,6 +20746,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20718,6 +20862,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20847,6 +20995,10 @@ PrefabInstance:
     - target: {fileID: 1370814439289101530, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23800,6 +23952,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.8611
@@ -24411,6 +24567,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.3789
@@ -24467,6 +24627,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25354,6 +25518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.3974
@@ -26049,6 +26217,10 @@ PrefabInstance:
     - target: {fileID: 1370814439289101530, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27050,6 +27222,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.6489
@@ -27593,7 +27769,7 @@ CapsuleCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1586604526}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 461d6619e307e804ba5baf91c0f21733, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -27691,6 +27867,7 @@ MonoBehaviour:
   sensibilidadMouse: {x: 3, y: 3}
   rb: {fileID: 0}
   camera: {fileID: 963194228}
+  cursor: 0
 --- !u!1 &1586606026
 GameObject:
   m_ObjectHideFlags: 0
@@ -28200,6 +28377,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Foco (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.831
@@ -28566,6 +28747,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29307,6 +29492,10 @@ PrefabInstance:
     - target: {fileID: 1370814439289101530, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30314,6 +30503,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -32762,6 +32955,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32980,6 +33177,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32996,6 +33197,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34094,6 +34299,10 @@ PrefabInstance:
     - target: {fileID: 4371611037964120726, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_Name
       value: Foco (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -37276,6 +37485,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.177
       objectReference: {fileID: 0}
+    - target: {fileID: 5985939449627619407, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
+      propertyPath: intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7424376631415574044, guid: e761dce5b31d5a346aee1a45737d05bf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.4459
@@ -38433,6 +38646,10 @@ PrefabInstance:
     - target: {fileID: 1370814439289101530, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3369220236040851698, guid: e53e408b14aacbd469bd5761fc5763a2, type: 3}
+      propertyPath: intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

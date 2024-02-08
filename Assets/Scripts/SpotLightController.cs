@@ -5,6 +5,7 @@ using UnityEngine;
 public class SpotLightController : MonoBehaviour
 {
     private Light spotlight;
+    public float intensity;
     private bool cambiar;
 
     private void Start()
@@ -18,7 +19,7 @@ public class SpotLightController : MonoBehaviour
 
         if(cambiar == true)
         {
-            spotlight.intensity = 3;
+            spotlight.intensity = intensity;
         }
 
         else if(cambiar == false)
