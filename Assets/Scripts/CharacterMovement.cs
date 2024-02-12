@@ -42,6 +42,7 @@ public class CharacterMovement : MonoBehaviour
             Cursor.lockState = CursorLockMode.Locked;
             cursor = true;
         }
+        
     }
 
     void Movement()
