@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mineria.unity
     guid: 913754823dde41a4aa0a8b5e6624f17b
+  - enabled: 1
+    path: Assets/Scenes/Oficinas.unity
+    guid: c1fbbb56e7fcbdd4ea7766aee19de702
   m_configObjects: {}

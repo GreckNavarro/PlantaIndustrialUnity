@@ -24,6 +24,7 @@ public class CharacterMovementOficina : MonoBehaviour
 
     private void Update()
     {
+      
         if (cursor == true)
         {
             UpdateMouseLook();
@@ -46,8 +47,13 @@ public class CharacterMovementOficina : MonoBehaviour
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Vertical");
 
-        Vector3 movement = new Vector3(x, -1, y);
-        rb.velocity = movement * movementSpeed * Time.deltaTime;
+        Vector3 localInputDirection = new Vector3(x, 0f, y);
+
+        // Convierte la dirección local a dirección global, considerando la rotación de la cámara
+        Vector3 globalInputDirection = Camera.main.transform.TransformDirection(localInputDirection);
+
+        // Aplica la dirección global al movimiento
+        rb.velocity = new Vector3(globalInputDirection.x * movementSpeed, rb.velocity.y, globalInputDirection.z * movementSpeed);
     }
 
     void UpdateMouseLook()

@@ -18,6 +18,10 @@ public class ScenesController : MonoBehaviour
     {
         SceneManager.LoadScene("Mineria");
     }
+    public void GoOficinas()
+    {
+        SceneManager.LoadScene("Oficinas");
+    }
 
     public void GoMenu()
     {
