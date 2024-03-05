@@ -32,12 +32,12 @@ public class CharacterMovement : MonoBehaviour
         }
       
 
-        if (Input.GetKeyDown(KeyCode.Escape) && cursor == true)
+        if (Input.GetKeyDown(KeyCode.P) && cursor == true)
         {
             Cursor.lockState = CursorLockMode.None;
             cursor = false;
         }
-        else if(Input.GetKeyDown(KeyCode.Escape) && cursor == false)
+        else if(Input.GetKeyDown(KeyCode.P) && cursor == false)
         {
             Cursor.lockState = CursorLockMode.Locked;
             cursor = true;
