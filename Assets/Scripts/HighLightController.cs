@@ -7,12 +7,10 @@ public class HighLightController : MonoBehaviour
     public Light[] luces;
     public bool activar;
     public bool enZona;
-
-
-
-
     void Update()
     {
+
+        // Prender y apagar el arreglo de luces que se coloquen dependiendo de si presiona una tecla y está dentro del collider
         if (Input.GetKeyDown(KeyCode.E) && enZona == true)
         {
             activar = !activar;
@@ -35,7 +33,7 @@ public class HighLightController : MonoBehaviour
         }
     }
 
-
+    // Detectar si el jugador está cerca para prender las luces
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Player")

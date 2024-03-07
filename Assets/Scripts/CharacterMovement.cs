@@ -31,11 +31,12 @@ public class CharacterMovement : MonoBehaviour
             UpdateMouseLook();
         }
       
-
+        //Bloquear y desbloquear la cámara para que el usuario pueda presionar el botón de menú
         if (Input.GetKeyDown(KeyCode.P) && cursor == true)
         {
             Cursor.lockState = CursorLockMode.None;
             cursor = false;
+            Debug.Log("Hola");
         }
         else if(Input.GetKeyDown(KeyCode.P) && cursor == false)
         {
@@ -45,6 +46,7 @@ public class CharacterMovement : MonoBehaviour
         
     }
 
+    // Movimiento del player
     void Movement()
     {
         float x = Input.GetAxis("Horizontal");
@@ -55,6 +57,7 @@ public class CharacterMovement : MonoBehaviour
 
     }
 
+    // Actualizar hacia donde está mirando el usuario
     void UpdateMouseLook()
     {
         float hormouse = Input.GetAxis("Mouse X");
@@ -64,6 +67,9 @@ public class CharacterMovement : MonoBehaviour
         {
             transform.Rotate(0, hormouse * sensibilidadMouse.x, 0);
         }
+
+        // Limitar el movimiento de la cámara para que no pueda girar por completo
+
         if (vermouse != 0)
         {
             Vector3 rotation = camera.localEulerAngles;

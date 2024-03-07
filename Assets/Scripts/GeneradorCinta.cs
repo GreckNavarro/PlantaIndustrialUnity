@@ -17,6 +17,7 @@ public class GeneradorCinta : MonoBehaviour
         StartCoroutine(GenerateObjectPeriodically());
     }
 
+    //OBJECT POLLING
     private void InitializeObjectPool()
     {
         objectPool = new List<GameObject>();
